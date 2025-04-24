@@ -105,7 +105,7 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-<img src ="Screenshot 2025-04-23 160945.png">
+![image](https://github.com/user-attachments/assets/23091ed1-2553-4dbb-8a2b-48da83e76d9a)
 <hr>
 
 <hr>
@@ -120,7 +120,8 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-<img src = "Screenshot 2025-04-24 124027.png">
+![image](https://github.com/user-attachments/assets/574fcb7e-7041-4eb2-9429-07b87d6d6ecd)
+
 <hr>
 <h3>Result:</h3>
 <hr>
