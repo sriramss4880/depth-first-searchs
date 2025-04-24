@@ -104,9 +104,9 @@ G F <BR>
 F H <BR>
 <hr>
 <h3>Sample Output</h3>
-<hr>
+
 ![image](https://github.com/user-attachments/assets/23091ed1-2553-4dbb-8a2b-48da83e76d9a)
-<hr>
+
 
 <hr>
 <h3>Sample Input</h3>
@@ -119,10 +119,10 @@ F H <BR>
 2 4 <BR>
 <hr>
 <h3>Sample Output</h3>
-<hr>
+
 ![image](https://github.com/user-attachments/assets/574fcb7e-7041-4eb2-9429-07b87d6d6ecd)
 
-<hr>
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
